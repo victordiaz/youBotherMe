@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RemoteAlarmClock!</string>
+    <string name="app_name">youBotherMe</string>
+<string name="local_service_started">service started</string>
+
+<string name="local_service_label">qq</string>
+</resources>
